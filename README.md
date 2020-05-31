@@ -1,6 +1,7 @@
 # seatone
 
-
-Sample seattle
-
-Added Ignore file
+Quick Setup
+- vim
+- ansible
+- terraform
+- Tips & Tricks
